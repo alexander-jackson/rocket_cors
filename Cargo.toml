@@ -33,7 +33,7 @@ unicase_serde = { version = "0.1.0", optional = true }
 
 [dependencies.rocket]
 git = "https://github.com/SergioBenitez/Rocket"
-rev = "7761911"
+branch = "master"
 default-features = false
 
 [dev-dependencies]
